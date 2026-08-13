@@ -11,7 +11,7 @@ const { coops, activities } = storeToRefs(farm)
 
 <template>
   <section class="mb-7 flex flex-col justify-between gap-4 md:flex-row md:items-end">
-    <div><span class="inline-flex items-center gap-1.5 rounded-full bg-[#dff1dc] px-2.5 py-1 text-[10px] font-bold uppercase tracking-[0.12em] text-[#286338]"><span class="size-1.5 rounded-full bg-[#44a65a]" /> Semua kandang normal</span><h2 class="mt-2 text-2xl font-semibold tracking-[-0.045em] sm:text-[30px]">Selamat pagi, Pak Budi.</h2><p class="mt-1 text-sm text-[#737e76]">Berikut kondisi terakhir peternakan Anda hari ini.</p></div>
+    <div><span class="inline-flex items-center gap-1.5 rounded-full bg-[#dff1dc] px-2.5 py-1 text-[10px] font-bold uppercase tracking-[0.12em] text-[#286338]"><span class="size-1.5 rounded-full bg-[#44a65a]" /> Semua kandang normal</span><h2 class="mt-2 text-2xl font-semibold tracking-[-0.045em] sm:text-[30px]">Selamat pagi, Bernad.</h2><p class="mt-1 text-sm text-[#737e76]">Berikut kondisi terakhir peternakan Anda hari ini.</p></div>
     <div class="flex items-center gap-2 text-xs text-[#68736b]"><span class="size-2 rounded-full bg-[#44a65a]" /> Data diperbarui 08:15 WIB</div>
   </section>
 
