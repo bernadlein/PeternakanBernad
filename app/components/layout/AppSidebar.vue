@@ -50,7 +50,7 @@ const navItems = [
 
     <div class="flex items-center gap-3 p-5">
       <div class="flex size-9 items-center justify-center rounded-full bg-[#e8c69e] text-[#593816]"><UserRound :size="17" /></div>
-      <div class="min-w-0"><p class="truncate text-xs font-semibold text-white">BERNADUS BOLI/p><p class="text-[10px] text-white/40">Farm Manager</p></div>
+      <div class="min-w-0"><p class="truncate text-xs font-semibold text-white">BERNADUS/p><p class="text-[10px] text-white/40">Farm Manage</p></div>
       <Settings class="ml-auto text-white/30" :size="17" />
     </div>
   </aside>
