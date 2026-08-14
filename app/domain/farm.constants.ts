@@ -8,8 +8,6 @@ export const CYCLE_DAY = 26
 export const ESTIMATED_HARVEST_DAYS = 17
 
 export const ACTIVITY_TYPES: ActivityType[] = [
-  'Pakan keluar',
-  'Pakan masuk',
   'Mortalitas',
   'Timbang sampel',
   'Vaksinasi',
