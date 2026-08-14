@@ -6,12 +6,12 @@ export const useUiStore = defineStore('ui', {
     mobileNavOpen: false,
     activityModalOpen: false,
     notificationsOpen: false,
-    defaultActivityType: 'Pakan keluar' as ActivityType,
+    defaultActivityType: 'Inspeksi kandang' as ActivityType,
     toast: '',
   }),
 
   actions: {
-    openActivity(type: ActivityType = 'Pakan keluar') {
+    openActivity(type: ActivityType = 'Inspeksi kandang') {
       this.defaultActivityType = type
       this.activityModalOpen = true
     },
